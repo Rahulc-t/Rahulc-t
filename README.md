@@ -1,6 +1,6 @@
 # 👋 Hi I'm Rahul
 # 💫 About Me:
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHI4ajd1bHBnazlqM205OTNsOHNqNWZqN24zbmxyMnRneGNvNDNqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" height="400px" width="auto" style="padding-left: 200px"></img>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHI4ajd1bHBnazlqM205OTNsOHNqNWZqN24zbmxyMnRneGNvNDNqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" height="300px" width="auto" style="padding-left: 200px"></img>
 <br>I am a **Computer Science and Engineering graduate** (Class of 2023)<br>
 with a passion for **web development** and **decentralized technologies**. 
 <br>Currently, I am pursuing a **PG Diploma in Blockchain Architecture** to<br> further expand my expertise in **blockchain technologies**.<br><br>I enjoy solving problems and building **applications that make a difference**.<br>
