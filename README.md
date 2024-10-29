@@ -2,7 +2,15 @@
 
 # 💫 About Me:
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHI4ajd1bHBnazlqM205OTNsOHNqNWZqN24zbmxyMnRneGNvNDNqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" height="400px" width="auto" style="padding-left: 200px"></img>
-<br>I am a Computer Science and Engineering graduate (Class of 2023) with a passion for web development and decentralized technologies. Currently, I am pursuing a PG Diploma in Blockchain Architecture to further expand my expertise in blockchain technologies.<br><br>I enjoy solving problems and building applications that make a difference. My technical stack includes both front-end and back-end technologies, allowing me to develop full-stack applications from scratch.<br>🚀 Current Focus<br>I am currently diving deep into Blockchain Architecture, exploring how decentralized systems can disrupt industries and pave the way for innovative applications.<br><br>Feel free to connect with me and explore my projects here!<br><br>
+<br>I am a Computer Science and Engineering graduate (Class of 2023)<br>
+with a passion for web development and decentralized technologies. 
+<br>Currently, I am pursuing a PG Diploma in Blockchain Architecture to<br> further expand my expertise in blockchain technologies.<br><br>I enjoy solving problems and building applications that make a difference.<br>
+My technical stack includes both front-end and back-end technologies,<br>
+allowing me to develop full-stack applications from scratch.
+### 🚀 Current Focus
+I am currently diving deep into Blockchain Architecture, exploring how <br>
+decentralized systems can disrupt industries and pave the way for <br>
+innovative applications.<br><br>Feel free to connect with me and explore my projects here!<br><br>
 
 <br><br>
 # 💻 SKILLS:
